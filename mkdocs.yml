@@ -1,0 +1,10 @@
+site_name: My Docs
+
+nav:
+  - Home: index.md
+  - Lightweight Mkdocs: vue.md
+
+
+
+theme: readthedocs
+
